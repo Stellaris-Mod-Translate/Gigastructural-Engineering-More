@@ -1362,7 +1362,7 @@ origin_orbital_arcology_effects: "시작 행성 주위의 궤도 아콜로지와
 
 origin_elysium: "궤도 엘리시움"
 origin_elysium_desc: "일찍이 가스 거성을 공전하는 인공 낙원에서 생활한 이 종은 은하의 나머지 부분까지 퍼질 준비가 되었습니다."
-giga_menu_presets_patreon_14: ""
+giga_menu_presets_patreon_14: "Patreon: §MBug Behemoth§!"
 origin_elysium_effects: "궤도 엘리시움에서 시작합니다.\n- £society_research£ §L$tech_hydroponics$§! 연구를 가지고 시작합니다."
 giga_elysium_start_NAME: "궤도 엘리시움"
 giga_elysium_start_DESC: "궤도 엘리시움에서 시작합니다."
