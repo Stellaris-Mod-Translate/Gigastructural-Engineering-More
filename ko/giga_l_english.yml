@@ -1512,7 +1512,7 @@ giga_war_moon_fe: "고대의 전쟁 위성"
 ENTERING_LEVIATHAN_DESC: "우리 과학자들은 이제 휴면 상태의 레비아탄 우주선에 진입할 방법을 찾기 위해 노력하고 있습니다.\n\n이 수수께끼의 콜로서스 내에 어떤 환상적인 기술들이 우리를 기다리고 있을까요?\n\n혹시 이것이 우리가 받은 통신의 근원지라면 $ehof_the_compound$에 대항할 해결책을 보유하고 있을지도 모릅니다."
 giga_war_moon_fe_plural: "코어"
 quasi_stellar_wormhole: "준-천체 웜홀"
-ehof_anomaly.10024.desc: ""
+ehof_anomaly.10024.desc: "전혀 예상하지 못한 일이 벌어졌습니다! 선체 내부로 진입하기 위해 구멍을 뚫으려는 순간, 선체가 변하기 시작하더니 우리가 진입할 수 있게 통로가 하나 생성되었습니다. 통로는 차량 여러대가 동시에 진입할 수 있을 정도로 컸습니다.\n\n함선의 내부를 보니 벽은 순백의 색이었으며 액체와도 같이 계속 모양을 변화시키고 있었습니다. 액체 벽의 구성물질은 균등하고 균일했으며. 계속해서 변화하는 성질을 제외하면 그 구조에 그 어떤 차이도 없었습니다.\n\n복도 또한 그 이상으로 비어있을 수 없었습니다. 복도 자체를 제외하면 과학적인 혹은 기술적인 가치를 가진 물건을 하나도 발견할 수 없었습니다.\n\n통로는 계속 변화하고 있었지만 우리가 목적지에 도달할 때까지는 크게 변하지 않았습니다.\n\n몇분 뒤, 우리는 통로와 동일한 물질로 만들어진 거대한 공간에 도달했습니다.처음에는 안에 아무것도 없었지만, 곧 무언가 일어났습니다.\n\n수많은 불확인된 존재들이 액체로 된 벽에서 나와 공간을 채우기 시작했습니다.\n\n다행히도 존재들은 우리를 공격하지 않았습니다. 그들은 벽과 동일한 액체로 만들어진 거대한 팔면체 형태의 존재로 융합했습니다.\n\n존재는 사이오식 텔레파시 능력이라도 있었는지 우리의 정신에 직접 연결하여 대화하기 시작했습니다. 존재는 스스로를 함선 내에 존재하는 자아의식이라 소개했고 우리가 여기까지 도달했다는 사실에 매우 기뻐했습니다.\n\n존재는 우주의 미래가 위기에 처했다며 우리의 지도자들과의 대화를 요구하고 있습니다."
 quasi_stellar_wormhole_plural: "준-천체 웜홀"
 quasi_stellar_calibrator: "준-천체 교정기"
 quasi_stellar_calibrator_plural: "준-천체 교정기"
@@ -1520,22 +1520,22 @@ REPAIR_ANNIHILATOR: "레비아탄 재활"
 
 ### Sections ############################
 
-REPAIR_ANNIHILATOR_DESC: ""
+REPAIR_ANNIHILATOR_DESC: "우리는 $ehof_the_stellar_annihilator$가 다시 활성화되어 별을 탈출할 수 있도록 파워 코어의 수리를 돕기로 했습니다.\n\n이는 엄청난 프로젝트가 될 것이며 어 거대한 계획을 실행시키기 위해선 국가 전체가 하나되어 모을 수 있는 자원을 전부 모아야 할 것입니다."
 
 ### The Compound
 
-annihilator_dialog.006.desc: ""
+annihilator_dialog.006.desc: "모든 수리 완료, $ehof_shroud_ftl$ 가동중, 목적지 §H[root.Capital.GetName]§!\n\n현재로썬 너희들을 방어해 줄 것이다. 하지만 $ehof_preservation_sphere$의 파괴는 우리들의 최우선사항이어야 한다."
 
 # Stellar Annihilator
 
-annihilator_dialog.006.tooltip: ""
+annihilator_dialog.006.tooltip: "$ehof_the_stellar_annihilator$는 §H[annihilator_spawn_here.GetName] 별§!을 성공적으로 탈출했으며 §H[root.Capital.GetName]§!로 이동하기 위해 $ehof_shroud_ftl$를 가동시키기 시작했습니다."
 
 ### War Moon
 
 
 ### War Planet
 
-INVESTIGATE_ENIGMATIC_PATTERN: ""
+INVESTIGATE_ENIGMATIC_PATTERN: "$ehof_ep$"
 behemoth_ship_bowgun_01_key: "행성 소멸포"
 behemoth_ship_bow_01_key: "보조 무기 축전지"
 behemoth_ship_mid_01_key: "무기화된 표면"
@@ -1673,15 +1673,15 @@ SYSTEMCRAFT_KATZENLAND_LANCE_1_DESC: "스텔라 시스템크래프트의 주포�
 SYSTEMCRAFT_RAY_OF_DOOM_1: "실존적 소거 광선"
 SYSTEMCRAFT_RAY_OF_DOOM_1_DESC: "초대형 무기의 정점. 상상할 수 없는 규모의 광선은 시공간 그 자체를 찢고 현실에서 목표를 삭제합니다. 목표는 몇 개의 고차원적 평면으로부터 영향을 받을 뿐 아니라, 대격변 에너지도 시간의 흐름을 통해 앞뒤로 모두 누출되어 모든 시간에서 대상을 지워버립니다."
 QUASISTELLAR_GUN_ENTITY: "준-천체 말소 랜스"
-ehof_eps: ""
+ehof_eps: "$ehof_ep$§E들§!"
 QUASISTELLAR_GUN_ENTITY_DESC: "$name_quasistellar$에서 바로 발사 된 레이저에는 은하의 총 에너지 출력만큼의 에너지를 포함되어 있습니다."
 COMPOUND_HM_RESHAPER: "위험 물질 재구성기"
 COMPOUND_HM_RESHAPER_DESC: "열 에너지의 직접적인 공급은 대기를 과열시키고 행성의 핵을 자극하여 행성을 테라포밍합니다."
-ehof_reality_code.1.name: ""
+ehof_reality_code.1.name: "$ehof_ep$"
 COMPOUND_HM_BEAM: "위험 물질 광선"
 COMPOUND_HM_BEAM_DESC: "보호막 파괴에 효율적인 고온의 광선을 배치합니다."
 COMPOUND_HM_PLASMA: "위험 물질 촉진기"
-ehof_p4_chain_title: ""
+ehof_p4_chain_title: "$reality_code$"
 COMPOUND_HM_PLASMA_DESC: "선체 및 선체의 장갑을 빠르게 분해하는 압축 입자포를 배치합니다."
 COMPOUND_HM_LAUNCHER: "위험 물질 발진기"
 COMPOUND_HM_LAUNCHER_DESC: "선체 및 선체의 장갑을 빠르게 분해하는 거대 입자포를 배치합니다."
@@ -1809,13 +1809,13 @@ cybrex_warform_plural: "사이브렉스 전쟁 기계"
 
 ### Achievements ############################################################################################################################
 
-code_05_category_desc: ""
+code_05_category_desc: "[this.GetName]는 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 거대 기체 행성 §H[from.from.GetName]§!의 내부입니다."
 edict_giga_achievements: "도전 과제"
 
 ### Star Survey #############################################################################################################################
 
 edict_giga_map_the_stars: "항성 지도화"
-ehof_reality_code.501.desc: ""
+ehof_reality_code.501.desc: "§H[from.from.GetName]§!에 존재하는 증폭기의 위치가 밝혀졌습니다.\n\n기존의 다른 증폭기들과 동일하게 이번에도 행성 내에 있으며 북극의 약 6449.2킬로미터 지하에 있습니다.\n\n이 발굴 작업은 지금까지의 그 어떤 작업보다도 어려울 것입니다. 증폭기에 도달하기 위해선 고도의 내구성을 지닌 전문 장비가 필요할 것이며 높은 온도와 밀도는 이 작업을 방해할 것입니다. 작업에 필요한 장비는 새로 제작되어야 합니다."
 edict_giga_map_the_stars_desc: "우리 제국 내 천문학자들은 모든 항성 데이터베이스를 정리하여 항성의 정확한 위치를 정확히 찾아낼 수 있습니다."
 giga_edicts.4.desc: "어떤 종류의 항성을 표시할까요?"
 giga_edicts.4.close: "닫기"
