@@ -1809,7 +1809,7 @@ cybrex_warform_plural: "사이브렉스 전쟁 기계"
 
 ### Achievements ############################################################################################################################
 
-code_05_category_desc: "[this.GetName]는 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 거대 기체 행성 §H[from.from.GetName]§!의 내부입니다."
+code_05_category_desc: "[this.GetName]은 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 거대 기체 행성 §H[from.from.GetName]§!의 내부입니다."
 edict_giga_achievements: "도전 과제"
 
 ### Star Survey #############################################################################################################################
@@ -1841,15 +1841,15 @@ d_floaters_desc: "대기를 떠돌아 다니는 거대한 유기체들 입니다
 d_birch_structure: "조립 오퍼레이션"
 d_birch_structure_desc: "이 작은 인슐라는 이 $name_birch$에 더 많은 인프라를 제공하기 위해 인슐라를 구축할 수 있는 확장 전문가 팀을 수용하도록 설계되었습니다."
 d_birch_extraction: "추출 오퍼레이션"
-code_06_category_desc: ""
+code_06_category_desc: "[this.GetName]은 §H[root.solar_system.GetName]§!성계 내에서 $ehof_epcs$의 통신을 또 수신했습니다. 함선의 기능이 복구되었으며 통신의 근원지가 발견되었습니다. 별 §H[from.from.GetName]§!의 내부입니다."
 d_birch_extraction_desc: "블랙홀로부터 물질과 에너지를 추출하도록 설계된 대형 구조물입니다. 위험하긴 하지만, 우린 자원이 필요합니다."
 d_virtual_shipyard: "항성 조선소"
 d_virtual_shipyard_desc: "이 구획에는 오직 하나의 항성 조선소만 가질 수 있습니다."
-ehof_reality_code.601.desc: ""
+ehof_reality_code.601.desc: "§H[from.from.GetName]§!에 존재하는 증폭기의 위치가 밝혀졌습니다.\n\n지표면의 74650.7 킬로미터 지하에 있습니다.\n\n이 발굴 작업은 별 내에서 이뤄지기 때문에 지금까지의 그 어떤 작업보다도 어려울 것입니다. 높은 온도와 밀도는 이 작업을 방해할 것이며 작업에 필요한 장비는 새로 제작되어야 합니다.\n\n이 프로젝트에 투자해야 할 시간과 자원은 예측이 불가능합니다. 하지만 수수께끼의 마스터-코드를 완성하고 $ehof_epcs$의 근원지에 도달하는 건 그 어떤 대가도 치를 수 있는 값어치를 가집니다."
 d_zro_cloud: "지로 성운"
 d_zro_cloud_desc: "끝없이 떠 다니는 귀중한 지로 입자의 거대한 표류 구름입니다."
 d_birch_start: "중앙 관리"
-code6_digsite_desc: ""
+code6_digsite_desc: "§H[code_world_planet.GetName]§!의 프로젝트에 필요한 장비는 투입될 준비가 완료되었습니다. 증폭기가 별의 대류권에 존재하기 때문에 이에 도달하기 위해선 새로운 방법을 고안해내야 할 것입니다."
 d_birch_start_desc: "이곳은 우리의 적은 인구가 감당하기에는 너무나도 높은 유지 비용을 요구하기에, 사람들은 일자리를 가릴 처지가 못 됩니다."
 d_birch_lost01: "고립된 집단 찾기"
 d_birch_lost01_desc: "표면이 너무 넓어 고립된 집단들이 존재합니다. 우리는 그들을 합류시킬 필요가 있습니다."
