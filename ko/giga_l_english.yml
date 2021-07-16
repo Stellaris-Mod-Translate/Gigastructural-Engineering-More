@@ -1861,7 +1861,7 @@ ehof_reality_code.612.desc: "닻은 근원지에 도달했습니다. 닻은 고�
 d_alderson_ruined_district_desc: "앨더슨 조각을 정리하는 것은 엄청난 규모의 작업이지만, 어딘가에서부터는 시작해야 합니다."
 d_alderson_ruined_district_cleared: "최대 지구: §G+1§!"
 d_alderson_lost01_cleared: "§Y[root.GetName]§! 에서 §B2 £pops£Pops§! 을 획득하세요!\n모든 §Y$d_alderson_lost01$§! 블로커를 처리하면 §Y$d_alderson_ruined_district$§!의 비용을 §G50%§!까지 절감해 줍니다."
-ehof_reality_code.613.desc: ""
+ehof_reality_code.613.desc: "엘레베이터 장치는 증폭기에 도달했다고 보고했습니다. 다른 행성들과 동일하게 증폭기 주변에 보호막이 공간을 유지시키고 있습니다. 하지만 행성의 내부 물질이 장치를 파괴하지 못하게 하는 대신 별의 압력과 대기가 파괴하지 못하게 합니다. 우리 팀은 장치에 진입할 준비가 되었습니다."
 d_alderson_ruined_housing: "거대한 슬럼가"
 d_alderson_ruined_housing_desc: "앨더슨 조각을 정리하는 것은 엄청난 규모의 작업이지만, 어딘가에서부터는 시작해야 합니다."
 d_alderson_ruined_housing_cleared: "주거: §G+5%§!\n모든 §Y$d_alderson_ruined_housing$§! 블로커를 처리하면 §Y$d_alderson_ruined_district$§!의 비용을 §G50%§!까지 절감해 줍니다."
