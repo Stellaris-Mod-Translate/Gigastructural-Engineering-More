@@ -1509,7 +1509,7 @@ ehof_anomaly.10023.desc: "해냈습니다! 우리는 드디아 §H[root.solar_sy
 giga_massive_planet: "전쟁 위성"
 giga_massive_planet_plural: "전쟁 위성"
 giga_war_moon_fe: "고대의 전쟁 위성"
-ENTERING_LEVIATHAN_DESC: ""
+ENTERING_LEVIATHAN_DESC: "우리 과학자들은 이제 휴면 상태의 레비아탄 우주선에 진입할 방법을 찾기 위해 노력하고 있습니다.\n\n이 수수께끼의 콜로서스 내에 어떤 환상적인 기술들이 우리를 기다리고 있을까요?\n\n혹시 이것이 우리가 받은 통신의 근원지라면 $ehof_the_compound$에 대항할 해결책을 보유하고 있을지도 모릅니다."
 giga_war_moon_fe_plural: "코어"
 quasi_stellar_wormhole: "준-천체 웜홀"
 ehof_anomaly.10024.desc: ""
